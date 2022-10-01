@@ -1,8 +1,11 @@
 # Llanfair
 
-**This project is not maintained anymore. I have not speedrun anything in over a year, and while I once thought I might come back to it again, that is highly unlikely to be the case anymore.**
+**"This project is not maintained anymore. I have not speedrun anything in over a year, and while I once thought I might come back to it again, that is highly unlikely to be the case anymore." - The old dev**
+
+That is why I have forked this, and I intend to try and get it working for java 17, and attempt to work on this as a side project in my spare time. I'm just starting out, but perhaps saving this project will help me learn more about maintaining old code, and working with an existing code base. 
 
 ---
+*(just a note, pretty sure all of these links are dead, one took me to a watch shop??)*
 
 [From the homepage](http://jenmaarai.com/llanfair/en/):
 
@@ -14,7 +17,7 @@ when I asked. Here I will be extending the original application as best I can by
 there and fixing bugs as needed.
 
 Note that Xunkar has started working on Llanfair v2.0 which is a complete rewrite. You can 
-[check it's progress here](https://github.com/xunkar/llanfair).
+[check it's progress here](https://github.com/xunkar/llanfair). ~ Looks like this died too so its all on me lol
 
 ## Download
 
